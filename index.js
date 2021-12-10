@@ -59,3 +59,11 @@ mongoose.connect(process.env.db_myURL,()=>console.log('Connected successfully'))
 
 //this is the port for listening to
 app.listen(process.env.port_num ||2021);
+
+//posing code on githup
+//use terminal, type git init
+//git add .
+// git commit 'name for project'
+//git branch -M main
+// git remote add origin https://github.com/BKElias/myToDoApp.git
+// git push -u origin main
